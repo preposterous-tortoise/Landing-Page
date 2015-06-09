@@ -1,0 +1,150 @@
+body{
+	font-family: 'Montserrat';
+}
+
+.nav {
+	padding-top: 5px;
+	margin-bottom: -4px;
+}
+.nav li {
+	display: inline;
+}
+
+.motto {
+	color: purple !important;
+}
+
+.logo {
+	color: #66cdaa !important;
+}
+
+.white {
+	color: white !important;
+}
+
+.a {
+	color: #f79920;
+}
+.nav a {
+	color: #5a5a5a;
+	font-size: 11px;
+	font-weight: bold;
+	padding: 14px 10px;
+	text-transform: uppercase;
+}
+
+.jumbotron {
+	background-image: url('img/bridge.jpg');
+	background-attachment: fixed;
+	background-position: center;
+	height: 500px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.padding {
+	padding-bottom: 50px;
+}
+
+.jumbotron {
+	position: relative;
+	top: 20px;
+	margin-bottom: 0;
+}
+
+.jumbotron h1 {
+	color: white;
+	font-size: 48px;
+	font-weight: bold;
+}
+
+.jumbotron p {
+	color: white;
+	font-size: 25px;
+}
+
+.more-stuff {
+	padding-top: 40px;
+	padding-bottom: 40px;
+	background-color: #66cdaa;
+}
+
+.more-stuff h3{
+	color: #f79920;
+	font-weight: bold;
+	font-size: 35px;
+}
+
+.more-stuff h3 span{
+	color: tomato;
+}
+
+.more-stuff p{
+		font-size: 18px;
+		color: white;
+}
+
+.more-stuff a {
+	font-weight: bold;
+	font-size: 18px;
+}
+
+.more-stuff a:hover {
+	color: pink;
+}
+
+.yolo {
+	background-color:mediumspringgreen;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+.yolo h3 {
+	color: white;
+	font-weight: bold;
+	font-size: 45px;
+}
+
+.yolo p{
+	font-size: 30px;
+	color: white;
+}
+
+.yolo span {
+	color: hotpink;
+	font-size: 50px;
+}
+
+.yolo a {
+	font-weight: bold;
+	font-size: 32px;
+	color: hotpink;
+}
+
+.yolo a:hover {
+	color: pink;
+}
+
+.yolo .thumbnail{
+	width: 250px;
+	height: 250px;
+	border-radius: 150px;
+	border: 5px solid white;
+	border-radius: 150px;
+	background-image:url("img/phantogram.jpg");
+	background-size: cover;
+	background-position: center;
+	/*box-shadow: 5px 5px 5px grey; */
+}
+
+#one {
+	background-image:url("img/WTT.jpg");
+}
+
+.thumbnail{
+	position: relative;
+}
+
+.clicked {
+	top: -5px;
+}
