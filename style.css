@@ -10,6 +10,12 @@ body{
 	display: inline;
 }
 
+.play {
+	 height: 44px;
+     margin-left: 20px;
+}
+
+
 .motto {
 	color: purple !important;
 }
