@@ -181,6 +181,18 @@ body{
 	/*box-shadow: 5px 5px 5px grey; */
 }
 
+.yolo .darren{
+	width: 250px;
+	height: 250px;
+	border-radius: 150px;
+	border: 5px solid white;
+	border-radius: 150px;
+	background-image:url("img/soccer.jpg");
+	background-size: cover;
+	background-position: center;
+	/*box-shadow: 5px 5px 5px grey; */
+}
+
 #one {
 	background-image:url("img/WTT.jpg");
 }
