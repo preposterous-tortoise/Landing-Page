@@ -10,6 +10,13 @@ body{
 	display: inline;
 }
 
+.border {
+	width: 316px;
+	border-radius: 10px;
+	padding-top: 27px;
+    padding-bottom: 27px;
+}
+
 .play {
 	 height: 44px;
      margin-left: 20px;
@@ -106,6 +113,12 @@ body{
 	padding-bottom: 40px;
 }
 
+.solo {
+	/*background-color:violet;*/
+	padding-top: 35px;
+	padding-bottom: 25px;
+}
+
 .yolo h3 {
 	color: white;
 	font-weight: bold;
@@ -139,6 +152,30 @@ body{
 	border: 5px solid white;
 	border-radius: 150px;
 	background-image:url("img/phantogram.jpg");
+	background-size: cover;
+	background-position: center;
+	/*box-shadow: 5px 5px 5px grey; */
+}
+
+.yolo .riah{
+	width: 250px;
+	height: 250px;
+	border-radius: 150px;
+	border: 5px solid white;
+	border-radius: 150px;
+	background-image:url("img/riah.png");
+	background-size: cover;
+	background-position: center;
+	/*box-shadow: 5px 5px 5px grey; */
+}
+
+.yolo .kaivon{
+	width: 250px;
+	height: 250px;
+	border-radius: 150px;
+	border: 5px solid white;
+	border-radius: 150px;
+	background-image:url("img/soccer.jpg");
 	background-size: cover;
 	background-position: center;
 	/*box-shadow: 5px 5px 5px grey; */
