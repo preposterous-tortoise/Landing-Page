@@ -10,6 +10,13 @@ body{
 	display: inline;
 }
 
+.border {
+	width: 316px;
+	border-radius: 10px;
+	padding-top: 27px;
+    padding-bottom: 27px;
+}
+
 .play {
 	 height: 44px;
      margin-left: 20px;
@@ -104,6 +111,12 @@ body{
 	background-color:mediumspringgreen;
 	padding-top: 40px;
 	padding-bottom: 40px;
+}
+
+.solo {
+	/*background-color:violet;*/
+	padding-top: 35px;
+	padding-bottom: 25px;
 }
 
 .yolo h3 {
